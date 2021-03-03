@@ -242,10 +242,12 @@
   .new-arts-preview {
     width: 80px;
     background-color: #a4f7f6;
+    flex-shrink: 0;
   }
   
   .new-arts-img {
     display: block;
+    width: 100%;
   }
   
   .new-arts-info {
